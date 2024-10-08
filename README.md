@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisalkajay&label=Profile%20views&color=0e75b6&style=flat" alt="nisalkajay" /> </p>
 
-- 🔭 I’m currently working on **mern stack project**
+- 🔭 I’m currently working on **Android application**
 
-- 🌱 I’m currently learning **python, mern stack**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **html, css, java script, java**
+- 💬 Ask me about **Web Development,Mobile Application Development,Data Analytics**
 
-- 📫 How to reach me **nisalkajayasinghe110@gmail.com**
+- 📫 How to reach me **jayasinghenisalka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
