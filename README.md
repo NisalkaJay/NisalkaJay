@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisalkajay&label=Profile%20views&color=0e75b6&style=flat" alt="nisalkajay" /> </p>
 
-- 🔭 I’m currently working on **Android Application Project**
+- 🔭 I’m currently working on **Java Project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java Spring Boot**
 
-- 💬 Ask me about **Web Development,Mobile Application Development,Data Analytics,UI/UX designning**
+- 💬 Ask me about **Web Development,Android Application Development,Data Analytics,UI/UX designning, Project Management**
 
 - 📫 How to reach me **jayasinghenisalka@gmail.com**
 
