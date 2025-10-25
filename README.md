@@ -1,6 +1,6 @@
 I’m Nisalka Jayasinghe, a tech enthusiast who loves building solutions that actually matter. 
 
----
+--
 
 ### Tech Stack : 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
