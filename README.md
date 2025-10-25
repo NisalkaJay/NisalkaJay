@@ -1,6 +1,4 @@
-# Turning Ideas Into Impact 🚀
-
-I’m Nisalka Jayasinghe, a tech enthusiast who loves building solutions that actually matter. From mobile apps to web interfaces, I enjoy exploring new technologies and bringing concepts to life.  
+# I’m Nisalka Jayasinghe, a tech enthusiast who loves building solutions that actually matter. 
 
 ---
 
