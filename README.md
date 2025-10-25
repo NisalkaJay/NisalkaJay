@@ -1,4 +1,4 @@
-# I’m Nisalka Jayasinghe, a tech enthusiast who loves building solutions that actually matter. 
+I’m Nisalka Jayasinghe, a tech enthusiast who loves building solutions that actually matter. 
 
 ---
 
